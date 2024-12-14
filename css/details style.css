@@ -1,0 +1,144 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif; /* Set the default font family */
+    background-color: #f4f4f4; /* Light grey background color */
+    margin: 0; /* Remove default margin */
+    padding: 50px 0; /* Add padding at the top and bottom of the page */
+    color: #333; /* Set the default text color to dark grey */
+    line-height: 1.6; /* Set the line height for readability */
+    width: 100%; /* Set the width to full */
+    background-size: cover; /* Ensure the background covers the entire element */
+}
+
+/* Page title styles */
+h1 {
+    text-align: center; /* Center the title */
+    margin: 20px 0; /* Add margin above and below the title */
+    color: #1E90FF; /* Set the title color to Dodger Blue */
+}
+
+/* Form styles */
+form {
+    width: 80%; /* Set the form width to 80% of its container */
+    max-width: 600px; /* Limit the maximum width to 600px */
+    margin: 20px auto; /* Center the form horizontally with margin at the top and bottom */
+    padding: 20px; /* Add padding inside the form */
+    background: white; /* Set the background color to white */
+    border-radius: 10px; /* Round the corners of the form */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); /* Add a subtle shadow to the form */
+}
+
+form label {
+    font-weight: bold; /* Make the label text bold */
+    margin-top: 10px; /* Add space above each label */
+    display: block; /* Display the label as a block element */
+    color: #333; /* Set the text color to dark grey */
+}
+
+form input[type="text"],
+form input[type="date"] {
+    width: calc(100% - 20px); /* Adjust the width to fit within the form with padding */
+    padding: 10px; /* Add padding inside input fields */
+    margin: 5px 0 15px 0; /* Add margin above and below input fields */
+    border: 1px solid #ccc; /* Add a light grey border */
+    border-radius: 5px; /* Round the corners of the input fields */
+}
+
+/* Button styles */
+form button {
+    background-color: #1E90FF; /* Set the button background color to Dodger Blue */
+    color: #fff; /* Set the text color to white */
+    border: none; /* Remove the border */
+    padding: 15px 30px; /* Add padding inside the button */
+    text-align: center; /* Center the text */
+    font-size: 16px; /* Set the font size */
+    border-radius: 5px; /* Round the corners of the button */
+    cursor: pointer; /* Change the cursor to a pointer on hover */
+    transition: background-color 0.3s ease-in-out; /* Add a transition effect for background color */
+}
+
+form button:hover {
+    background-color: #005bb5; /* Change background color on hover */
+}
+
+/* Toggle button (Home link) styles */
+.toggle-button {
+    display: inline-block; /* Ensure the link is inline-block */
+    background-color: #1E90FF; /* Set the background color to Dodger Blue */
+    color: #fff; /* Set the text color to white */
+    padding: 10px 20px; /* Add padding to the link */
+    border-radius: 5px; /* Round the corners */
+    text-decoration: none; /* Remove underline */
+    margin-left: 10px; /* Add some margin to separate from the Search button */
+    transition: background-color 0.3s ease-in-out; /* Add transition for background color */
+}
+
+.toggle-button:hover {
+    background-color: #005bb5; /* Change background color on hover */
+}
+
+/* Search result styles */
+.patient-profile {
+    background: #ffffff; /* Set the background color to white */
+    border-radius: 10px; /* Round the corners of the container */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    padding: 20px; /* Add padding inside the container */
+    margin: 20px auto; /* Center the container horizontally with margin at the top and bottom */
+    max-width: 600px; /* Limit the maximum width to 600px */
+    display: flex; /* Use flexbox layout */
+    align-items: center; /* Vertically center align items */
+    gap: 20px; /* Add spacing between image and details */
+}
+
+.patient-profile img {
+    width: 100px; /* Set the width of the profile picture */
+    height: 100px; /* Set the height of the profile picture */
+    border-radius: 50%; /* Make the profile picture circular */
+    object-fit: cover; /* Ensure the image covers the area proportionally */
+    display: block; /* Display as a block element */
+}
+
+.patient-details {
+    display: flex;
+    flex-direction: column; /* Arrange details vertically */
+    gap: 10px; /* Add spacing between details */
+}
+
+.patient-details strong {
+    color: #333; /* Set the text color to dark grey */
+}
+
+hr {
+    border: 0; /* Remove the default border */
+    border-top: 1px solid #ccc; /* Add a top border for horizontal rule */
+    margin: 20px 0; /* Add margin above and below the horizontal rule */
+}
+
+/* Header styles */
+#pageHeader {
+    display: flex; /* Use Flexbox for layout */
+    align-items: center; /* Align items vertically in the center */
+    justify-content: space-between; /* Justify content with space between elements */
+    background-color: rgba(213, 211, 211, 0.8); /* Set header background color */
+    color: black; /* Set text color to black */
+    padding: 10px 20px; /* Add padding inside the header */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow to the header */
+    position: fixed; /* Fix the header at the top of the page */
+    top: 0;
+    left: 0;
+    width: 98%; /* Set the header width to 98% */
+    z-index: 1; /* Ensure the header is above other content */
+}
+
+/* General button styles */
+button {
+    font-size: 16px; /* Set the font size */
+    padding: 10px; /* Add padding inside the button */
+    border-radius: 5px; /* Round the corners of the button */
+    transition: background-color 0.3s, transform 0.2s; /* Add transition effects for background color and transform */
+}
+
+button:hover {
+    background-color: #555; /* Change background color on hover */
+    transform: scale(1.02); /* Slightly enlarge the button on hover */
+}

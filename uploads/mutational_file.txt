@@ -1,0 +1,2 @@
+patient_id	mutation_id	chromosome	chromosome start	chromosome end	mutation type	mutated from allele	mutated to allele	consequence type	associated gene	cancer type
+	M061	19	1482896	1482896	single base substitution	C	A	upstream_gene_variant	ENSG00000115257	Liver

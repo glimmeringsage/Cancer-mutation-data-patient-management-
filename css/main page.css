@@ -1,0 +1,234 @@
+body
+{padding-top: 100px;
+width: auto;
+background-color: aliceblue;
+background-position: 100% 50px center;
+background-size: 100%}
+
+#pageHeader
+    {display: flex; /* Use Flexbox layout */
+    align-items: center; /* Vertically center align content */
+    justify-content: space-between; /* Align content to both sides: logo + title on the left, navigation on the right */
+    background-color: rgba(213, 211, 211, 0.8); /* Set header background color */
+    color: black; /* Set text color */
+    padding: 10px 20px; /* Padding */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add shadow */
+    position: fixed; /* Fixed at the top of the page */
+    top: 0;
+    left: 0;
+    width: 98%; /* Cover full page width */
+    z-index: 1; /* Ensure it stays above other content */}
+#title
+    {background-color: transparent; /* Set a transparent background color */
+    color: gray;
+    text-align: center;}
+
+    /* Research container */
+#Research 
+    {display: flex; /* Use Flexbox layout */
+    position: fixed;
+    right: 20px; /* 20px from the right side of the page */
+    top: 50px; /* 50px from the top of the page */
+    gap: 20px; /* Control spacing between label and input */
+    text-align: center; /* Ensure multi-line text aligns to the right */ 
+    width: 16%;
+    margin-top: 44px;}
+
+/* Label style */
+#Research button 
+    {font-weight: bold; /* Bold text */
+    white-space: nowrap; /* Prevent text from wrapping */
+
+    background-color: #1E90FF;
+    color: azure;
+    font-size: 1.2em; /* Increase font size */
+    margin: 20px;}
+
+/* Input style */
+#Research input 
+    {padding: 5px; /* Padding */
+    border: 1px solid #ccc; /* Border */
+    border-radius: 4px; /* Rounded corners */
+    width: 200px; /* Input width, can be adjusted as needed */
+    margin-top: 40px;}
+
+.menu {
+        display: flex; /* Use Flexbox layout */
+        justify-content: center; /* Horizontally center */
+        align-items: center; /* Vertically center */
+        background-color: #f8f9fa; /* Background color */
+        padding: 10px 20px; /* Padding */
+        margin-bottom: 20px; /* Bottom margin for the navigation bar */
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add shadow effect */
+        border-radius: 8px; /* Rounded border */
+        gap: 10px;
+      }
+      
+      /* Dropdown menu style */
+.menu select {
+        font-size: 16px; /* Font size */
+        padding: 10px 15px; /* Padding */
+        border-radius: 5px; /* Rounded border */
+        background-color: #ffffff; /* Background color */
+        color: #333; /* Font color */
+        border: 1px solid #ccc; /* Border */
+        cursor: pointer; /* Cursor style on hover */
+        transition: all 0.3s ease; /* Add transition effect */
+      }
+      
+      /* Hover effect */
+.menu select:hover {
+        background-color: #007bff; /* Background color on hover */
+        color: white; /* Font color on hover */
+        border-color: #0056b3; /* Border color on hover */
+      }
+      
+      /* Dropdown menu selected item style */
+      .menu select:focus {
+        outline: none; /* Remove default focus outline */
+        box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Focus shadow */
+        border-color: #007bff; /* Focus border color */
+      }
+      .menu label
+      { margin-right: 10px; /* Adjust to a more suitable spacing */
+        font-size: 16px; /* Set reasonable font size */
+        font-weight: bold;}
+      table {
+          width: 100%;
+          border-collapse: collapse;
+      }
+      table, th, td {
+          border: 1px solid black;
+      }
+      th, td {
+          padding: 10px;
+          text-align: left;
+      }
+  
+      #visualization-section {
+          display: flex;
+          justify-content: center;
+          width: 100%;
+          margin: 20px auto;
+      }
+  
+      #charts-container {
+          display: flex;
+          gap: 20px; /* Set spacing between charts */
+          flex-wrap: wrap; /* Ensure all charts align horizontally, wrap if necessary */
+          justify-content: center;
+          width: 100%;
+          max-width: 1200px; /* Set maximum container width */
+      }
+  
+      /* Single chart container */
+      .chart-wrapper {
+          flex: 1 1 auto; /* Automatically adjust size */
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          max-width: 300px; /* Fixed maximum width for each chart */
+      }
+  
+      /* Chart size control */
+      canvas {
+          width: 300px; /* Fixed width */
+          height: 300px; /* Fixed height */
+      }
+      #Menu {
+        display: flex; /* Use Flexbox layout */
+        justify-content: center; /* Horizontally center align */
+        align-items: center; /* Vertically center align (if needed) */
+        text-align: center; /* Ensure text aligns in the center for multiple lines */
+        height: auto; /* Ensure container height adapts to content */
+        padding: 10px; /* Add padding to provide visual space */
+        gap: 100px; /* Spacing between buttons */
+        margin-bottom: 40px; /* Margin between navigation bar and content below */
+    }
+    
+    #Menu .button 
+        {font-size: 30px; /* Increase button font size */
+        padding: 10px 20px; /* Increase button padding */
+        border-radius: 5px; /* Add rounded corners */
+        background-color: transparent; /* Transparent button background color */
+        font-weight: bold;
+        color: grey; /* Button text color */
+        cursor: pointer; /* Display hand icon on hover */
+        border: 1px solid grey; /* Add narrow border */
+        text-decoration: none; /* Remove link underline */}
+    
+    #Menu .button:hover 
+        {color: blue; /* Change button text color to blue on hover */
+        border-color: blue; /* Change border color to blue on hover */}
+    
+              #pageFooter 
+                {background-color: #1E1E2F; /* Dark background */
+                color: #fff; /* White font color */
+                padding: 20px 0; /* Top and bottom padding */
+                font-size: 14px;}
+            
+            .footer-container {
+                display: flex;
+                flex-wrap: wrap; /* Wrap on smaller screens */
+                justify-content: space-between; /* Distribute alignment */
+                max-width: 1200px; /* Limit maximum width */
+                margin: 0 auto; /* Center layout */
+                padding: 0 20px; /* Left and right padding */
+                gap: 20px; /* Spacing between each section */
+            }
+            
+            .footer-section {
+                flex: 1 1 250px; /* Each section adapts to width, minimum width 250px */
+                margin-bottom: 20px;
+            }
+            
+            .footer-section h4 {
+                font-size: 18px;
+                margin-bottom: 10px; /* Spacing between title and content */
+                color: #FFD700; /* Golden color title */
+            }
+            
+            .footer-section p,
+            .footer-section ul {
+                margin: 0;
+                padding: 0;
+                list-style: none; /* Remove list style */
+                line-height: 1.6; /* Line spacing */
+            }
+            
+            .footer-section ul li {
+                margin-bottom: 5px;
+            }
+            
+            .footer-section ul li a {
+                color: #fff; /* Link text color */
+                text-decoration: none; /* Remove underline */
+                transition: color 0.3s; /* Add transition effect */
+            }
+            
+            .footer-section ul li a:hover {
+                color: #FFD700; /* Font color on hover */
+            }
+            
+            .social-icons {
+                display: flex;
+                gap: 10px;
+            }
+            
+            .social-icons a {
+                display: inline-block;
+                transition: transform 0.3s ease; /* Icon zoom effect */
+            }
+            
+            .social-icons a:hover {
+                transform: scale(1.2); /* Zoom in on hover */
+            }
+            
+            .footer-bottom {
+                text-align: center;
+                margin-top: 20px;
+                font-size: 12px;
+                border-top: 1px solid #333; /* Top border separator */
+                padding-top: 10px;
+                color: #ccc;
+            }

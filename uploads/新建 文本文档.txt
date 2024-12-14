@@ -1,0 +1,63 @@
+global L0 alpha beta a S0 gamma t0 tip
+L0 = 10;        % mm
+alpha = 15;     % 1/mm
+beta = 5;       % mN
+a = 0.66;       % mm/s
+S0 = 6;         % mN
+gamma = 0.5;
+t0 = 0.05;      % s
+tip = 0.2;      % s
+[time, Yout] = ode15s(@isometric, [0 1], [0, 10]);
+plot(time,Yout(:,1),'k',time,Yout(:,2),'k:'), legend('T', 'L_c');
+
+%------------------------------------------------------------------------
+% This section is for assessments, you do not have to understand what this section is doing
+TC1 = isometric(0.1, [5, 10]);
+TC2 = isometric(0, [0, 10]);
+TC3 = isometric(0.43, [3, 10]);
+
+[m, ~] = size(time);
+mean_Yout1 = mean(Yout(:,1));
+mean_Yout2 = mean(Yout(:,2));
+mean_time = mean(time);
+
+counter1 = zeros(m, 1);
+counter2 = zeros(m, 1);
+countertime = zeros(m, 1);
+for i = 1:m
+    counter1(i, 1) = 1/m * abs(Yout(i,1) - mean_Yout1);
+    counter2(i, 1) = 1/m * abs(Yout(i,2) - mean_Yout2);
+    countertime(i, 1) = 1/m * abs(time(i,1) - mean_time);
+end
+
+MAD_Yout1 = sum(counter1);
+MAD_Yout2 = sum(counter2);
+MAD_time = sum(countertime);
+%------------------------------------------------------------------------
+
+function Yprime = isometric(t,Y)
+global L0 alpha beta a S0 gamma t0 tip
+
+%-----------------(Write code here…)--------------------
+Yprime = zeros(2,1);
+T=Y(1);
+Lc=Y(2);
+L=L0;
+Ls=L-Lc;
+
+     Tp=beta*(exp(alpha*(L-L0))-1);
+     Ts=beta*(exp(alpha*Ls)-1);     
+     T=Tp+Ts;
+  if (t<=2*tip+t0)&&(t>=0)
+      f=sin((pi/2)*((t+t0)/(tip+t0)));
+  elseif (t>=2*tip+t0)
+      f=0;  
+  end
+  dLcdt=(a*(Ts-S0*f))/(Ts+gamma*S0);
+  dTdt=-alpha*beta*exp(alpha*(L0-Lc))*dLcdt;
+  Yprime(1)=dLcdt;
+  Yprime(2)=dTdt;
+ end
+
+
+

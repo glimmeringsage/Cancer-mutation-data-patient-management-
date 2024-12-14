@@ -1,0 +1,116 @@
+/* Basic Styles */
+body {
+    font-family: Arial, sans-serif;
+    padding-top: 100px;
+    width: auto;
+    background-color: aliceblue;
+    background-position: 100% 50px center;
+    background-size: 100%;
+}
+
+.button-container {
+    margin-top: 20px;
+}
+
+/* Button and Link Styles to Make Them Consistent */
+.toggle-button {
+    padding: 10px 20px; /* Spacing inside the button */
+    margin: 5px; /* Space between buttons */
+    cursor: pointer; /* Pointer cursor to indicate a clickable button */
+    font-size: 16px; /* Font size for button text */
+    border: 1px solid #007bff; /* Add border to buttons and links */
+    text-decoration: none; /* Remove underline from <a> tags */
+    background-color: #007bff; /* Set background color */
+    color: white; /* Set text color to white */
+    border-radius: 5px; /* Rounded corners */
+    display: inline-block; /* Make <a> tags look like buttons */
+    text-align: center; /* Center align text inside buttons */
+}
+
+/* Hover Effect for Buttons and Links */
+.toggle-button:hover {
+    background-color: #0056b3; /* Darker background on hover */
+}
+
+/* Active Effect for Buttons and Links */
+.toggle-button:active {
+    background-color: #004494; /* Even darker background when clicked */
+}
+
+/* Content Section Styles */
+.content-section {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* Create Profile Button Styles */
+.create-profile-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+/* Container Styles */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Header Styles */
+h1 {
+    text-align: center;
+    color: #444;
+}
+
+/* Table Styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+/* Table Header Styles */
+table th {
+    background-color: #007bff;
+    color: white;
+    text-transform: uppercase;
+}
+
+/* Table Row Styles for Alternate Background */
+table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+/* Recommendation Section Styles */
+.recommendation-section {
+    margin-top: 30px;
+}
+
+/* Recommendation Header Styles */
+.recommendation-header {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Recommendation Content Styles */
+.recommendation-content {
+    padding: 10px;
+    background: #e9ecef;
+    border-radius: 5px;
+}

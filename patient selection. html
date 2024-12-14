@@ -1,0 +1,21 @@
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title> Search for Patients</title>
+</head>
+<body>
+   <h2>Search for a Patient</h2>
+   <form method="GET" action="../src/patient_list.php">
+   <input type="text" name="name" placeholder="Enter patient name">
+
+   <label for="patient_id">Patient ID:</label>
+   <input type="text" name="patient_id" placeholder="Enter patient ID">
+
+   <label for="last_diagnosis_date">Last Date:</label>
+   <input type="date" name="last_diagnosis_date">
+
+   <button type="submit">Search</button>
+   </form>
+</body>
+</html>

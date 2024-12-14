@@ -1,0 +1,613 @@
+2024-11-27 09:25:31 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-27 09:25:31 | User ID:  | Operation: Login | Details: User logged in successfully
+2024-11-27 09:25:41 | User ID: O001 | Operation: Logout | Details: User logged out
+2024-11-27 09:27:04 | User ID: P001 | Operation: Login | Details: User logged in successfully
+2024-11-27 09:27:04 | User ID: P001 | Operation: Login | Details: User logged in successfully
+2024-11-27 09:27:06 | User ID: P001 | Operation: Logout | Details: User logged out
+2024-11-27 09:27:44 | User ID: O002 | Operation: Login | Details: User logged in successfully
+2024-11-27 09:27:44 | User ID: O002 | Operation: Access | Details: User logged in successfully
+2024-11-27 09:28:00 | User ID: O002 | Operation: Logout | Details: User logged out
+2024-11-27 09:28:23 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-27 09:28:24 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-27 09:29:40 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-27 09:29:40 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-27 09:32:06 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-27 09:32:06 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-27 09:32:12 | User ID: O001 | Operation: Logout | Details: User logged out
+2024-11-27 09:32:16 | User ID: P001 | Operation: Login | Details: User logged in successfully
+2024-11-27 09:32:17 | User ID: P001 | Operation: Access | Details: User logged in successfully
+2024-11-27 09:33:57 | User ID: P001 | Operation: Access | Details: User logged in successfully
+2024-11-28 07:44:57 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 07:44:57 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 07:50:04 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 07:50:04 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 07:54:17 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 07:54:17 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 08:45:41 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 08:45:41 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 08:46:01 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 08:46:01 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 00:47:17 | User ID:  | Operation: Access | Details: User accessed the database file
+2024-11-28 00:49:05 | User ID:  | Operation: Access | Details: User accessed the database file
+2024-11-28 08:49:59 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 08:49:59 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 00:50:12 | User ID:  | Operation: Access | Details: User accessed the database file
+2024-11-28 08:51:52 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 08:51:53 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 00:52:02 | User ID:  | Operation: Access | Details: User accessed the database file
+2024-11-28 08:53:36 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 08:53:56 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 08:55:40 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 08:55:51 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 08:55:52 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 08:59:24 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 08:59:27 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 08:59:37 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 08:59:43 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:00:04 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:00:10 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:00:15 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:00:49 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:01:04 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 09:01:05 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:01:12 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:01:20 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:01:27 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:01:34 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:02:34 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:02:37 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:02:43 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:03:03 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:03:04 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:03:05 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:05:02 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:07:24 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:07:43 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:11:11 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:12:08 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:13:39 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:13:45 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:14:00 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:16:23 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:16:40 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:17:39 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:22:48 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:23:04 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:23:05 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:23:09 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:23:16 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:24:08 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:24:37 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:24:38 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:24:40 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:24:48 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:27:31 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:28:11 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:28:12 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:29:17 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 09:29:17 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:37:23 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:37:28 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:37:30 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:37:31 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:37:32 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:43:44 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 09:43:45 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:44:02 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:44:36 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:46:19 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:53:50 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 09:57:43 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 09:57:43 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 09:57:46 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 10:04:53 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 10:05:07 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 10:05:08 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 10:05:09 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 10:38:31 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 10:38:31 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 10:38:34 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 10:38:35 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 10:44:20 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 10:44:21 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 10:44:35 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 10:50:23 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 10:50:24 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 10:50:29 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 10:52:58 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 02:54:38 | User ID:  | Operation: Access | Details: User accessed the database file
+2024-11-28 10:56:54 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 10:56:54 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 10:56:56 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 10:59:45 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 10:59:45 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 10:59:46 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:00:07 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:00:52 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:00:59 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:02:51 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:03:42 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:04:17 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:04:57 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:05:22 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 11:05:22 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:05:24 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:05:35 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:06:44 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 11:06:44 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:06:52 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:07:01 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:07:02 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:18:21 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 11:18:21 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:29:03 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 11:29:03 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:29:04 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:29:06 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:29:14 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:29:18 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:29:19 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:29:20 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:29:21 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:30:11 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:34:15 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:34:27 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 11:34:28 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:34:29 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:34:30 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:35:32 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:35:43 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:36:30 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 11:36:30 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:36:31 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:36:33 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:42:42 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:42:50 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:45:37 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:45:38 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:45:39 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 11:45:40 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 11:45:44 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:05:09 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 12:05:09 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:05:19 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:05:21 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:05:23 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:05:31 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:05:43 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:05:45 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:05:46 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:05:48 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:05:50 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:05:57 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:06:12 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:06:15 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:06:31 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:06:47 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:06:49 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:06:54 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:07:18 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:07:41 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:08:07 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:08:24 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:08:27 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:11:07 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:11:12 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:11:24 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:11:31 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:11:33 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:11:35 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:11:46 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:11:54 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:13:00 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:14:16 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:15:55 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:16:01 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:16:03 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:16:04 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:24:41 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 12:24:41 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:24:46 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:24:49 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:24:54 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:24:56 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:25:05 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:26:29 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:26:30 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:26:53 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:30:38 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:30:45 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:30:49 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:30:50 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:31:45 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:31:47 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:31:58 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:32:03 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:32:11 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:33:27 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:33:41 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:46:06 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:46:20 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:48:18 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:49:15 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:49:16 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 12:49:16 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:49:27 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:51:41 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:56:28 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 12:58:07 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 13:00:19 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 13:00:31 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 13:02:45 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 13:02:45 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 13:02:46 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 13:02:47 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 13:02:56 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 13:05:23 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 13:05:25 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 13:05:36 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 13:05:36 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 13:05:38 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 13:05:38 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 18:27:55 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 18:27:55 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 18:27:57 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 18:27:58 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 18:28:02 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 18:28:03 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 18:38:38 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 18:39:39 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 18:39:44 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 18:39:46 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 18:51:13 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 18:51:13 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 18:51:18 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 18:51:21 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 18:51:23 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 18:51:24 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-28 18:51:26 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 18:51:28 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 18:51:29 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-28 18:51:32 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-28 18:51:33 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-28 18:51:34 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 18:52:51 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 18:53:59 | User ID: O001 | Operation: Access | Details: User logged in delete page successfully
+2024-11-28 18:53:59 | User ID: O001 | Operation: DeletePatient | Details: Deleted patient profile with Patient ID: P061
+2024-11-28 18:54:09 | User ID: O001 | Operation: Access | Details: User logged in delete page successfully
+2024-11-28 18:54:09 | User ID: O001 | Operation: DeletePatient | Details: Deleted patient profile with Patient ID: 
+2024-11-28 19:02:09 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-28 19:02:10 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:02:11 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-28 19:02:12 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:02:12 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 19:04:48 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 19:04:53 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:04:55 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 19:04:56 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-28 19:04:59 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 19:05:01 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-28 19:05:03 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 19:05:04 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:05:04 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-28 19:06:46 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-28 19:06:48 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-28 19:10:23 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-28 19:10:31 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:10:33 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-28 19:10:57 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-28 19:11:46 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-28 19:11:54 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-28 19:11:57 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:17:44 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:17:46 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 19:18:13 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-28 19:20:11 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:20:58 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:20:59 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 19:21:14 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 19:22:34 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:22:35 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 19:22:38 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 19:22:51 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:22:52 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 19:26:05 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:26:07 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:26:47 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:27:45 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:27:47 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 19:28:28 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:28:30 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 19:30:26 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:30:42 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:30:48 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:31:54 | User ID: O001 | Operation: Access | Details: User accessed the patient details page
+2024-11-28 19:32:12 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:32:40 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-28 19:32:40 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 19:32:42 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:32:52 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-28 19:32:58 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-28 19:32:59 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 19:33:22 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-28 19:33:53 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:13:15 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-29 06:13:15 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:13:26 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 06:13:28 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 06:13:30 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:13:32 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 06:13:34 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-29 06:13:37 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 06:13:40 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-29 06:13:44 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 06:13:45 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:13:47 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:13:50 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:14:16 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:17:01 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:17:05 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:17:07 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:17:09 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:17:13 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:17:15 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:17:18 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:17:53 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:18:08 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:18:10 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:18:12 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:29:28 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 06:29:31 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-29 06:29:34 | User ID: O001 | Operation: Access | Details: User accessed the patient details page
+2024-11-29 06:29:40 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-29 06:29:44 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:29:49 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:29:52 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:29:53 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:30:27 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-29 06:30:27 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:30:29 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:30:51 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:30:52 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 06:30:54 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:30:54 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:32:37 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:33:10 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:33:11 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:37:26 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:37:28 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:37:31 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:37:54 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-29 06:37:54 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:37:56 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:37:58 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:39:55 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:40:12 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:40:14 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 06:40:15 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:40:16 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:40:20 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:40:21 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:41:00 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-29 06:41:00 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:41:01 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:41:10 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:41:52 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:41:54 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 06:41:57 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-29 06:43:31 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-29 06:43:35 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-29 06:43:44 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-29 06:43:48 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-29 06:44:06 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-29 06:45:18 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-29 06:45:19 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-29 06:45:40 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-29 06:49:23 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-29 06:50:05 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-29 06:50:07 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-29 06:51:47 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:51:49 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 06:51:50 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:51:51 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 06:51:53 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:53:36 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-29 06:53:42 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-29 08:38:24 | User ID: O004 | Operation: Login | Details: User logged in successfully
+2024-11-29 08:38:24 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 08:38:29 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 08:38:37 | User ID: O004 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-29 08:39:04 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 08:39:06 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 10:33:08 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 10:33:26 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 10:37:56 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 10:38:34 | User ID: O004 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-29 10:39:14 | User ID: O004 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-29 10:39:26 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 10:39:31 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 10:39:45 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 10:39:54 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 10:40:09 | User ID: O004 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-29 10:40:40 | User ID: O004 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-29 10:40:47 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 10:41:59 | User ID: O004 | Operation: Access | Details: User accessed the patient details page
+2024-11-29 10:42:21 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 10:42:25 | User ID: O004 | Operation: Access | Details: User accessed the database file
+2024-11-29 10:43:11 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 10:43:19 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 10:43:20 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 10:43:22 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 10:43:25 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 10:43:29 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 10:43:31 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 10:43:36 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 10:43:45 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 10:43:47 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 10:45:37 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 10:46:19 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 11:19:36 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 11:19:50 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 11:20:13 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 11:21:24 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 11:22:48 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 11:23:07 | User ID: O004 | Operation: Access | Details: User accessed the patient details page
+2024-11-29 11:30:06 | User ID: O004 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-29 11:32:51 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 11:35:27 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 11:37:57 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 11:40:04 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 11:40:08 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 11:41:24 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 11:42:03 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 11:42:08 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 11:43:56 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 11:43:59 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 11:46:53 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 11:47:51 | User ID: O004 | Operation: Access | Details: User accessed the database file
+2024-11-29 11:49:05 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 11:49:09 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 11:49:12 | User ID: O004 | Operation: Access | Details: User accessed the database file
+2024-11-29 11:51:50 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 11:51:58 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 11:59:17 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 11:59:26 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:19:28 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:19:36 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 12:19:47 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:20:35 | User ID: O004 | Operation: Access | Details: User accessed the database file
+2024-11-29 12:20:39 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 12:20:43 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:20:50 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 12:20:52 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 12:21:02 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 12:21:13 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 12:21:18 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 12:21:21 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:23:14 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:23:26 | User ID: O004 | Operation: Access | Details: User logged in delete page successfully
+2024-11-29 12:23:27 | User ID: O004 | Operation: DeletePatient | Details: Deleted patient profile with Patient ID: P062
+2024-11-29 12:23:50 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:25:27 | User ID: O004 | Operation: Access | Details: User logged in delete page successfully
+2024-11-29 12:25:27 | User ID: O004 | Operation: DeletePatient | Details: Deleted patient profile with Patient ID: P061
+2024-11-29 12:30:38 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:30:42 | User ID: O004 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-29 12:30:57 | User ID: O004 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-29 12:31:00 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:31:03 | User ID: O004 | Operation: Access | Details: User logged in delete page successfully
+2024-11-29 12:31:03 | User ID: O004 | Operation: DeletePatient | Details: Deleted patient profile with Patient ID: P061
+2024-11-29 12:31:03 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:31:12 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:31:19 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:32:09 | User ID: O004 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-29 12:32:29 | User ID: O004 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-29 12:32:33 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:32:36 | User ID: O004 | Operation: Access | Details: User logged in delete page successfully
+2024-11-29 12:32:36 | User ID: O004 | Operation: DeletePatient | Details: Deleted patient profile with Patient ID: P061
+2024-11-29 12:32:36 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:32:50 | User ID: O004 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-29 12:33:08 | User ID: O004 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-29 12:33:11 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:33:14 | User ID: O004 | Operation: Access | Details: User accessed the patient details page
+2024-11-29 12:33:19 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:33:22 | User ID: O004 | Operation: Access | Details: User accessed the database file
+2024-11-29 12:33:29 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:33:33 | User ID: O004 | Operation: Access | Details: User accessed the database file
+2024-11-29 12:33:35 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 12:33:37 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:33:40 | User ID: O004 | Operation: Access | Details: User accessed the database file
+2024-11-29 12:33:44 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 12:33:47 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:35:08 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:35:11 | User ID: O004 | Operation: Access | Details: User accessed the database file
+2024-11-29 12:35:12 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:35:31 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 12:35:35 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:36:16 | User ID: O004 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-29 12:36:23 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:36:31 | User ID: O004 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-29 12:36:35 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-29 12:36:37 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 12:36:38 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 12:37:01 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 12:37:03 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 12:37:45 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-29 12:37:47 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 12:39:48 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 12:40:02 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 12:40:11 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 12:48:41 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 12:48:43 | User ID: O004 | Operation: Access | Details: User accessed the searching page
+2024-11-29 12:50:32 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-30 06:42:19 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-30 06:42:19 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 06:42:22 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-30 06:42:23 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 06:42:25 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-30 06:42:28 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 06:47:52 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 06:48:02 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-30 06:48:07 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-30 06:48:10 | User ID: O001 | Operation: Access | Details: User accessed the patient details page
+2024-11-30 06:48:12 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-30 06:48:15 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-30 06:48:28 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-30 06:48:30 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-30 06:48:32 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-30 06:48:34 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 06:48:55 | User ID: P001 | Operation: Login | Details: User logged in successfully
+2024-11-30 06:48:55 | User ID: P001 | Operation: Access | Details: User logged in successfully
+2024-11-30 06:49:21 | User ID: P001 | Operation: Access | Details: User logged in successfully
+2024-11-30 06:59:58 | User ID: P001 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:00:01 | User ID: P001 | Operation: Logout | Details: User logged out
+2024-11-30 07:00:07 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-30 07:00:07 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:00:17 | User ID: O001 | Operation: Logout | Details: User logged out
+2024-11-30 07:00:35 | User ID: P001 | Operation: Login | Details: User logged in successfully
+2024-11-30 07:00:35 | User ID: P001 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:01:04 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-30 07:01:05 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:02:50 | User ID: O004 | Operation: Login | Details: User logged in successfully
+2024-11-30 07:02:50 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:03:37 | User ID: O004 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-30 07:03:38 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:03:42 | User ID: O004 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:03:46 | User ID: O004 | Operation: Logout | Details: User logged out
+2024-11-30 07:09:56 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-30 07:09:56 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:10:00 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-30 07:10:02 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-30 07:10:04 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-30 07:10:06 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-30 07:10:08 | User ID: O001 | Operation: Access | Details: User accessed the database file
+2024-11-30 07:10:10 | User ID: O001 | Operation: Access | Details: User accessed the patient details page
+2024-11-30 07:10:12 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-30 07:10:16 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:10:35 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:10:37 | User ID: O001 | Operation: Logout | Details: User logged out
+2024-11-30 07:10:45 | User ID: P001 | Operation: Login | Details: User logged in successfully
+2024-11-30 07:10:45 | User ID: P001 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:10:56 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-30 07:10:56 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:10:58 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-30 07:10:58 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-30 07:11:00 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:11:01 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-30 07:11:02 | User ID: O001 | Operation: Access | Details: User accessed to adding new patient fields the database file
+2024-11-30 07:11:04 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:11:06 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-30 07:11:09 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:11:41 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:11:42 | User ID: O001 | Operation: Logout | Details: User logged out
+2024-11-30 07:11:50 | User ID: P001 | Operation: Login | Details: User logged in successfully
+2024-11-30 07:11:50 | User ID: P001 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:19:18 | User ID: O001 | Operation: Login | Details: User logged in successfully
+2024-11-30 07:19:19 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:19:36 | User ID: O001 | Operation: Access | Details: User accessed the searching page
+2024-11-30 07:19:42 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:19:43 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-30 07:19:46 | User ID: O001 | Operation: Access | Details: User accessed patient informationg selected page
+2024-11-30 07:19:47 | User ID: O001 | Operation: Access | Details: User logged in successfully
+2024-11-30 07:19:48 | User ID: O001 | Operation: Logout | Details: User logged out
+2024-11-30 07:19:55 | User ID: P001 | Operation: Login | Details: User logged in successfully
+2024-11-30 07:19:55 | User ID: P001 | Operation: Access | Details: User logged in successfully
